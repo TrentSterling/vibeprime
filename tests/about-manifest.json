@@ -1,8 +1,8 @@
 {
   "repository": "vibeprime",
   "baseline": "3bc077240d7f72fadf4eb260424696e07be62bd3",
-  "sharedRevision": "83dbfb4d8241501012c5ec22be49d79f28ccf6b7",
-  "javascriptSha256": "78e5f1cd0ab28f5361c445cecf6d539664d6ef5a39ceedb5228e2bfca5501bed",
+  "sharedRevision": "fcda637550b9237140c89f9e42465ddd1cb07bf0",
+  "javascriptSha256": "cb5935a8e19c692c26fb8df302396138393528b0272d4cf00d72a906019248f0",
   "cssSha256": "70723556209736cc1d9e8dff2aa2fb5e68157d6ab0de2983406376baad85a8d0",
   "bio": "<p>VibePrime is a teaching tool for prime numbers: run a sieve, watch the composites fall away, and see how the classic algorithms find primes and how quickly the work grows.</p><p>One page, no install. By Tront (Trent Sterling).</p>",
   "title": "VibePrime by Tront",
