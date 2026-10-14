@@ -1,0 +1,25 @@
+{
+  "repository": "vibeprime",
+  "baseline": "3bc077240d7f72fadf4eb260424696e07be62bd3",
+  "sharedRevision": "83dbfb4d8241501012c5ec22be49d79f28ccf6b7",
+  "javascriptSha256": "78e5f1cd0ab28f5361c445cecf6d539664d6ef5a39ceedb5228e2bfca5501bed",
+  "cssSha256": "70723556209736cc1d9e8dff2aa2fb5e68157d6ab0de2983406376baad85a8d0",
+  "bio": "<p>VibePrime is a teaching tool for prime numbers: run a sieve, watch the composites fall away, and see how the classic algorithms find primes and how quickly the work grows.</p><p>One page, no install. By Tront (Trent Sterling).</p>",
+  "title": "VibePrime by Tront",
+  "list": "<li><a href=\"https://tront.xyz/vibestar/\">VibeStar</a>: A* pathfinding visualiser with web workers and a lot of knobs.</li><li><a href=\"https://tront.xyz/shortpath/\">Short Path</a>: Duan-Mao and Dijkstra shortest-path algorithms visualised in JavaScript.</li><li><a href=\"https://tront.xyz/quantumvibes/\">Quantum Vibes</a>: Interactive quantum mechanics: the double-slit experiment and Feynman path integrals in the browser.</li>",
+  "hub": "<a href=\"https://tront.xyz/games/\">All games and tools</a> &middot; <a href=\"https://tront.xyz/blog/\">Devlog</a> &middot; <a href=\"https://tront.xyz/discord/\">Discord</a> &middot; <a href=\"https://github.com/TrentSterling/vibeprime\">Source on GitHub</a> &middot; <a href=\"https://tront.xyz/\">tront.xyz</a>",
+  "jsonLd": "<script type=\"application/ld+json\">{\"@context\": \"https://schema.org\", \"@type\": \"SoftwareApplication\", \"name\": \"VibePrime\", \"alternateName\": [\"VibePrime by Tront\"], \"url\": \"https://tront.xyz/vibeprime/\", \"description\": \"Educational prime number search and sieve visualiser.\", \"author\": {\"@type\": \"Person\", \"name\": \"Trent Sterling\", \"alternateName\": \"Tront\", \"url\": \"https://tront.xyz/\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Tront\", \"url\": \"https://tront.xyz/\"}, \"isAccessibleForFree\": true, \"offers\": {\"@type\": \"Offer\", \"price\": \"0\", \"priceCurrency\": \"USD\"}, \"applicationCategory\": \"DeveloperApplication\", \"operatingSystem\": \"Web browser\"}</script>",
+  "scripts": [
+    "dd90d93a5b1cffb8fc5b6108be6a0583a6efbbd12f7c52687a0377fef5a73c2f",
+    "0cae8b3b838598e524d5e81348fce8214277cc83eb57c1d898c5efd0754b6d9e",
+    "4eb5ed46917f37e8e113ee757af25884ef55569b7a23a954d3f0fff76a94dcc3"
+  ],
+  "styles": [
+    "0aa37d725428384f11a0795172437c93bf3662e3c78cf639832834300c7a91be"
+  ],
+  "videos": [],
+  "surfaceAttributes": [
+    "id=\"grid-container\""
+  ],
+  "sharedMerge": "5c22da598774e04d2bc854850a8e72b3a7fdb66f"
+}
